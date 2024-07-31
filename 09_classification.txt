@@ -1,0 +1,7 @@
+Classification Starts from here
+Logistic Regression Classification
+knn Classification
+Support Vector Classification
+Naive Bayes Classification
+Decision Tree Classification
+Random Forest Classification
