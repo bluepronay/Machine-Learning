@@ -1,0 +1,4 @@
+Unsupervised Algos starting from here :- clustering
+just two
+k-means ++  clustering
+hierchichal clustering
